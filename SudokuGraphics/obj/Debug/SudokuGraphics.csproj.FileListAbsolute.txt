@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\Visual Studio 2008\Projects\SudokuGraphics\SudokuGraphics\bin\Debug\SudokuGraphics.exe
+C:\Users\Student\Documents\Visual Studio 2008\Projects\SudokuGraphics\SudokuGraphics\bin\Debug\SudokuGraphics.pdb
+C:\Users\Student\Documents\Visual Studio 2008\Projects\SudokuGraphics\SudokuGraphics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2008\Projects\SudokuGraphics\SudokuGraphics\obj\Debug\SudokuGraphics.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2008\Projects\SudokuGraphics\SudokuGraphics\obj\Debug\SudokuGraphics.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2008\Projects\SudokuGraphics\SudokuGraphics\obj\Debug\SudokuGraphics.exe
+C:\Users\Student\Documents\Visual Studio 2008\Projects\SudokuGraphics\SudokuGraphics\obj\Debug\SudokuGraphics.pdb
